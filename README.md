@@ -16,10 +16,9 @@ La plataforma ANACONDA ofrece cientos de paquetes y librerías actualizadas y di
 | ------ | ------ |
 | Numpy | 1.18.5 |
 | matplotlib base | 3.2.2 |
-| scikit-image | 0.16.2 |
-| scikit-learn | 0.23.1|
-| pydot| 1.4.1 |
-| pillow | 7.1.0 |
+| imutils | 0.5.3 |
+| opencv-python | 4.2.0|
+| scipy| 1.4.1 |
 | Tensorflow | 1.13.1 GPU version |
 
 Para la correcta instalación de tensorflow-gpu en anaconda, usar en el ANACONDA Promt:
@@ -41,10 +40,9 @@ La versión más actual al momento de desarrollo es python 3.7.6.}
 | ------ | ------ |
 | Numpy | 1.18.5 |
 | matplotlib base | 3.2.2 |
-| scikit-image | 0.16.2 |
-| scikit-learn | 0.23.1|
-| pydot| 1.4.1 |
-| pillow | 7.1.0 |
+| imutils | 0.5.3 |
+| opencv-python | 4.2.0|
+| scipy| 1.4.1 |
 | Tensorflow | Lite |
 
 Para la instalación de Tensorflow lite se requiere el archivo wheel apropiado al hardware y software del dispositivo usado [TensorFlow Lite quickstart guide](https://www.tensorflow.org/lite/guide/python). 
