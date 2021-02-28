@@ -15,6 +15,12 @@ $ git clone https://github.com/AndresFlorez-Git/Face_Mask_Detection_Raspberry_Pi
 
 3. Ejecutar el archivo de instalación. Este archivo permite de forma automatizada, instalar todas las librerias y dependencias necesarias.
 ```sh
+$ cd Face_Mask_Detection_Raspberry_Pi
+```
+```sh
+$ chmod +x Instalacion.sh
+```
+```sh
 $ ./Instalacion.sh
 ```
 
