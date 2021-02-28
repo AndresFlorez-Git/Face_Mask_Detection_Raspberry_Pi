@@ -6,7 +6,7 @@
 - Cámara Raspberry Pi
 - Monitor, teclado y ratón.
 ## Instrucciones de ejecución del sistema de detección de máscaras en tiempo real en Raspberry Pi:
-1. Una vez instalado Raspberry Pi OS en la placa y establecida la configuración de idioma, pantalla y red, es nesesario habilitar el módulo de la Pi Camera y reiniciar el sistema.
+1. Una vez instalado Raspberry Pi OS en la placa y establecida la configuración de idioma, pantalla y red, es nesesario habilitar el módulo de la Pi Camera y reiniciar el sistema. Menu>Preferencias>Configuración de Raspberry Pi.
 ![imagen](https://github.com/AndresFlorez-Git/Face_Mask_Detection_Raspberry_Pi/blob/main/pic/1.png)
 2. Clonar este repositorio.
 ```sh
