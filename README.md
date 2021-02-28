@@ -31,3 +31,5 @@ $ cd Mask\ Detection
 ```sh
 $ python3 Real_time_mask_detection.py
 ```
+
+5. Para finalizar la ejecición del programa, presionar la letra q
